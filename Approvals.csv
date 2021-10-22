@@ -1,0 +1,17 @@
+﻿approval_status,type,description,customer_name,message_to_requester,parent_object
+New,Claims Denied,Claims Denied,5933,Claims Denied,32880196
+Approved,Prescription Override,Prescription Override,5933,Prescription Override,32880196
+Denied,Claims Override,Claims Override,5933,Claims Override,32880196
+New,Unlock Prescription,Unlock Prescription,5933,Unlock Prescription,32880196
+Approved,Claims Denied,Claims Denied,5933,Claims Denied,32880196
+New,Prescription Override,Prescription Override,5933,Prescription Override,32880196
+Approved,Claims Override,Claims Override,5933,Claims Override,32880196
+New,Unlock Prescription,Unlock Prescription,5933,Unlock Prescription,32880196
+Approved,Claims Denied,Claims Denied,5933,Claims Denied,32880196
+New,Prescription Override,Prescription Override,5933,Prescription Override,32880196
+Approved,Claims Override,Claims Override,5933,Claims Override,32880196
+New,Unlock Prescription,Unlock Prescription,5933,Unlock Prescription,32880196
+Approved,Claims Denied,Claims Denied,5933,Claims Denied,32880196
+Denied,Prescription Override,Prescription Override,5933,Prescription Override,32880196
+Denied,Claims Override,Claims Override,5933,Claims Override,32880196
+Approved,Unlock Prescription,Unlock Prescription,5933,Claims Override,32880196
